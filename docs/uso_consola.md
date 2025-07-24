@@ -10,4 +10,5 @@
 <mv> mueve o cambia el nombre de un archivo.
 <rm> elimina un archivo/carpeta.
 3. Registro:
-<git config --global user.name "nombre_de_usuario"> añade nombre de usuario al registro. 
+<git config --global user.name "nombre_de_usuario"> añade nombre de usuario al registro.
+<git config --global user.email "email"> añade un email al usuario.
