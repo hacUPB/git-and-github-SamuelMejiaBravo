@@ -7,3 +7,4 @@
 <git log> muestra un historial de commits.
 <git status> indica el estado de qué se está guardando en el commit y en qué branch.
 <git commit --amend> para cambiar el comentario de un commit.
+![ejemplo](7.png)
