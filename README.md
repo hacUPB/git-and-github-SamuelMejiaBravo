@@ -1,7 +1,20 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cyLOSpir)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante:  Samuel Mejía Bravo
+Id.:  000531329
+Este archivo tiene como propósito cumplir con todas las tareas que se enlistan en este README, de hecho este texto es parte de ello. Para clonar un archivo se ha de usar el comando <clone> seguido del nombre o URL del archivo que se quiere copiar.
+
+Para la navegación y uso se recomienda leer los siguientes archivos que pueden funcionar como guía básica:
+
+1. Cómo usar la consola con comandos básicos:
+https://vscode.dev/github/hacUPB/git-and-github-SamuelMejiaBravo/blob/main/docs/uso_consola.md
+
+2. Cómo crear un repositorio remoto:
+https://vscode.dev/github/hacUPB/git-and-github-SamuelMejiaBravo/blob/main/docs/repositorio_remoto.md
+
+3. Cómo crear un repositorio local:
+https://vscode.dev/github/hacUPB/git-and-github-SamuelMejiaBravo/blob/main/docs/repositorio_local.md
 ---
 # Evaluación
 
